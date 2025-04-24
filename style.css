@@ -1,37 +1,130 @@
-.container{
-    background-image: url(https://thumbs.dreamstime.com/b/smart-television-media-content-demand-tv-channel-pack-smart-television-media-content-demand-tv-channel-pack-blurred-213073407.jpg);
+.container {
+  background-image: url(https://thumbs.dreamstime.com/b/smart-television-media-content-demand-tv-channel-pack-smart-television-media-content-demand-tv-channel-pack-blurred-213073407.jpg);
 }
-.navbar{
-    background-color: rgba(17, 0, 0, 0.682);
-    width: 100%;
-    height: 300px;
-    padding: 0px;
+.navbar {
+  background-color: rgba(17, 0, 0, 0.682);
 }
-.logo-text{
-    color: rgb(249, 245, 245);
-    padding-bottom: 1400px;
-}
-.logo-image{
-    padding-bottom: 100px;
-}
-.logo-text h1{
-    padding-bottom:12px;
-}
-.p{
-    padding:100px;
-    font-size: 500px;
-    font-weight: 600;
+.logo-text {
+  color: rgb(253, 252, 252);
+  font-size: 30px;
+  font-weight: 30px;
 }
 
-.d-flex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.d-flex {
+  display: flex;
 }
-.button{
-    background-color: rgb(255, 153, 0);
+
+.justify-content-center {
+  justify-content: center;
+}
+.align-items-center {
+  align-items: center;
+}
+
+.text-white {
+  color: white;
+}
+.h4 {
+  font-size: 35px;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.h1 {
+  font-size: 90px;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  line-height: 0.8em;
+}
+
+.fs-4 {
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+  word-spacing: -7px;
+  letter-spacing: -1px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.px-3 {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+.my-3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mt-4 {
+    margin-top: 1.7em;
+}
+
+.watch-now {
+  background-color: rgb(255, 153, 0);
+  color: white;
+  border-radius: 30px;
+  padding: 10px 28px;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.btn{
     color: white;
-    width: 100px;
-    height: 30px;
-    border-radius: 1000px;
+    border-radius:20px;
+    padding:2px 3px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.Sports{
+    background-color: rgba(10, 138, 10, 0.986);
+    padding: 20px 100px;
+    border-radius: 15px;
+    border-top-left-radius:0px;
+   
+}
+.Games{
+    background-color: blueviolet;
+    padding: 20px 100px;
+    border-radius: 15px;
+    border-top-left-radius:0px;
+}
+.Music{
+    background-color: rgb(224, 100, 120);
+    padding: 20px 100px;
+    border-radius: 15px;
+    border-top-left-radius:0px;
+}
+.Home-Hub{
+    background-color: rgb(92, 210, 226);
+    padding: 20px 80px;
+    border-radius: 15px;
+    border-top-left-radius:0px;
+}
+.Home{
+    background-color: rgb(12, 221, 151);
+    padding: 20px 100px;
+    border-radius: 15px;
+    border-top-left-radius:0px;
+}
+.content{
+    padding-top: 70px;
+    background-color: rgba(0, 0, 0, 0.904);
+}
+.menu{
+    color: white;
+    border-radius:20px;
+    padding:2px 3px;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+.a1{
+    background-color: rgb(90, 238, 90);
+    padding: 30px 50px;
 }
