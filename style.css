@@ -2,7 +2,7 @@
   background-image: url(https://thumbs.dreamstime.com/b/smart-television-media-content-demand-tv-channel-pack-smart-television-media-content-demand-tv-channel-pack-blurred-213073407.jpg);
 }
 .navbar {
-  background-color: rgba(17, 0, 0, 0.682);
+  background-color: rgba(17, 0, 0, 0.742);
 }
 .logo-text {
   color: rgb(253, 252, 252);
@@ -114,7 +114,7 @@
 }
 .content{
     padding-top: 70px;
-    background-color: rgba(0, 0, 0, 0.904);
+    background-color: rgba(0, 0, 0, 0.353);
 }
 .menu{
     color: white;
@@ -145,4 +145,10 @@
   background-color: rgba(139, 83, 127, 0.656);
   padding: 30px 50px;
 
+}
+.menu1{
+  padding-top: 35px;
+}
+.menu2{
+  padding-top: 20px;
 }
